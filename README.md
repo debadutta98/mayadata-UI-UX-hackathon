@@ -1,4 +1,4 @@
-# mayadata-UI-UX-hackthon
+# mayadata-UI-UX-hackathon
 
 Name-Debadutta panda
 <br>
